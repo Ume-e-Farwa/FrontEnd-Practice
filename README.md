@@ -12,4 +12,5 @@ DOM manipulation
 These projects are ideal for practicing and reinforcing core web development concepts, and they serve as a hands-on journey through modern frontend development.
 
 Author: Ume-e-Farwa
+<br>
 Feel free to explore, fork, or contribute!
